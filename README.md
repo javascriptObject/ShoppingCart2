@@ -1,6 +1,6 @@
 # 原生js实现购物车逻辑ShoppingCart2
 
-效果如下：
+效果如下：hjhjhh
 
 ![](img.gif)
 
